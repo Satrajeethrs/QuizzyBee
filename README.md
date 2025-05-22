@@ -96,4 +96,22 @@ After running the Streamlit app, a URL will be provided in your terminal (usuall
 * Translation to Hindi available
 * Focus Mode enabled
 
+## <a name="extra-features"></a>✨ Additional Features
 
+Beyond core MCQ generation, QuizzyBee offers powerful study tools:
+
+| Feature | Description | Icon |
+|---------|-------------|------|
+| **Short Notes Generator** | AI-powered concise summaries of uploaded content | 📝 |
+| **Hindi Translation** | Instantly translates generated content to Hindi | 🌐 |
+| **Focus Mode Timer** | Built-in Pomodoro timer (25/5 min intervals) | ⏱️ |
+| **Multi-Format OCR** | Reads text from images (PNG/JPG) and scanned PDFs | 📸 |
+| **Difficulty Levels** | Adjust output complexity (Easy/Moderate/Hard) | 🎚️ |
+| **Export Options** | Download as PDF (formatted) or TXT | 💾 |
+| **Progress Tracking** | Visual timer with completion percentage | 📊 |
+
+**Why these matter?**
+- Makes learning more accessible (Hindi support)
+- Boosts productivity (Focus Mode)
+- Handles real-world documents (images/scans)
+- Adapts to different skill levels
